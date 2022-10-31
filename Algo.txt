@@ -1,3 +1,4 @@
 Step 1: Order Pizza
-Step 2: Wait for Delivery
-Step 3: Profit
+Step 2: Choose your Pizza
+Step 2a: Choose your Toppings
+Step 3: Order and Enjoy!
